@@ -1,3 +1,4 @@
 white-list: >
    /client/member/login,
-   /client/member/register  
+   /client/member/register,
+   /client/member/forget-password
