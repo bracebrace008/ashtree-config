@@ -1,2 +1,2 @@
-white-list:
-   - /client/member/login  
+white-list: >
+   /client/member/login  
