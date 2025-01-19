@@ -1,1 +1,3 @@
-
+white-list: >
+   /client/member/login,
+   /client/member/register
